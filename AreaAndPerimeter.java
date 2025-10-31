@@ -11,5 +11,6 @@ public class AreaAndPerimeter {
 		Triangle tr2 = new Triangle(3.0, 6.0, 5.0);
 		System.out.println(tr2.count);
 		System.out.println(tr1.count);
+		System.out.println("Now in new branch");
 	}
 }
